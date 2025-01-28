@@ -12,9 +12,23 @@
     background-color: #006A50;
     padding: 10px 15px 10px 15px;
     color: #FFFFFF;
+    /* margin-left: 20px; */
+    /* margin-bottom: 20px; */
   }
   head,main ,footer{
     background-color: #1E1E1E;
+  }
+  .light{
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+  .about-titel{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .discripton{
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
 
@@ -81,3 +95,52 @@
   
 }
 
+/* dui-style */
+
+
+
+.dui-titel{
+  margin: 10px 160px 5px 160px;
+  margin-top: 80px;
+}
+.main-item{
+  margin: 0px 160px 0px 160px;
+  justify-content: space-between;
+  display: flex;
+  gap: 24px;
+}
+.skill{
+  background-color: #afc9f7;
+  border-radius:16px;
+  padding: 10px 15px 10px 15px;
+  
+}
+.skill-2{
+  background-color: #C6E4D6;
+  border-radius: 16px;
+  padding: 10px 15px 10px 15px;
+}
+.btn-1 , .btn-two , .btn-tree{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: #5490F5;
+  border-radius: 8px;
+  font-size: 16px;
+  padding: 11px 20px 11px 20px;
+
+
+}
+.skill-3{
+  background-color: #F7EBCF;
+  border-radius: 16px;
+  padding: 8px 12px 8px 12px;
+}
+.btn-two{
+  background-color: #09A15C;
+ padding:11px 20px 11px 20px ;
+
+}
+.btn-tree{
+  background-color: #FFC239;
+ 
+}
