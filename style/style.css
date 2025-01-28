@@ -1,0 +1,83 @@
+
+  
+.fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #F1F1F3;
+  }
+  /* sheare-style */
+  .btn-primary{
+    border-radius: 8px;
+    background-color: #006A50;
+    padding: 10px 15px 10px 15px;
+    color: #FFFFFF;
+  }
+  head,main ,footer{
+    background-color: #1E1E1E;
+  }
+
+
+
+
+
+
+
+
+
+
+  /* nav style */
+.nav-head{
+  justify-content: space-around;
+  display: flex;
+}
+.btn-one{
+  padding: 8px 20px 8px 20px;
+  margin: 15px 30px 15px 30px;
+  border-radius: 5px;
+
+}
+/* header-section-style */
+.header-section{
+  background-color: #C6E4D6;
+  
+  
+  
+  /* display: flex; */
+  margin: 0 160px 80px 160px;
+  border-radius: 24px;
+  justify-content: center;
+
+}
+.all-titel{
+  display: flex;
+  justify-content: center;
+}
+.font-sytem{
+  justify-content: center;
+  padding: 117px 40px 117px 59px;
+}
+/* main-section-style */
+.head-titel{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.head-titel{
+  margin: 0px 160px 0px 160px;
+  gap: 24px;
+  
+}
+.big-titel{
+  margin: 5px 160px 0px 160px;
+  padding-bottom: 32px;
+
+}
+.about-item{
+  background-color: #FFFFFF;
+  border-radius: 16px;
+  padding: 24px;
+  
+}
+
