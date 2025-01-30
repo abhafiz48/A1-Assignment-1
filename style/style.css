@@ -15,9 +15,10 @@
     /* margin-left: 20px; */
     /* margin-bottom: 20px; */
   }
-  head,main ,footer{
-    background-color: #1E1E1E;
-  }
+ 
+  
+  
+  
   .light{
     padding-top: 20px;
     padding-left: 20px;
@@ -29,6 +30,55 @@
   .discripton{
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .discription-one, .discription, .discripton, .discription{
+    color:rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+  }
+
+  .btn-primary:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
+  }
+  .btn-1:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
+
+  }
+  .btn-primary-box:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
+  }
+  .btn-primary-two:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
+  }
+  .btn-primary-last:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
+  }
+  .btn-two:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
+  }
+  .btn-tree:hover{
+    background-color: #d3224e;
+    cursor: pointer;
+    color: chartreuse;
+
   }
 
 
@@ -44,6 +94,7 @@
 .nav-head{
   justify-content: space-around;
   display: flex;
+  
 }
 .btn-one{
   padding: 8px 20px 8px 20px;
@@ -144,3 +195,167 @@
   background-color: #FFC239;
  
 }
+/* important-style */
+.item-about{
+  margin: 32px 160px 0px 160px;
+  background-color: #FFFFFF;
+ border-radius: 16px;
+ padding: 48px 24px 48px 24px;
+ 
+}
+/* Recent News */
+.about-item-tree{
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 50px;
+
+}
+
+/* Bangladesh  */
+.full-about{
+  margin-left: 160px;
+  margin-right: 160px;
+  background-color: #FFFFFF;
+  border-radius: 24px;
+  display: flex;
+  
+  
+  
+  
+}
+.big-pic{
+  
+  border-radius: 24px;
+  margin: 48px 0px 48px 48px;
+
+}
+.list-item{
+  margin: 56px 48px 56px;
+  
+}
+.btn-primary-two{
+  border-radius: 8px;
+  background-color: #006A50;
+  padding: 10px 15px 10px 15px;
+  color: #FFFFFF;
+  padding: 13px 26px 13px 26px;
+  font-size:18px;
+}
+
+
+.full-about-2{
+  margin-left: 160px;
+  margin-right: 160px;
+  background-color: #FFFFFF;
+  border-radius: 24px;
+  display: flex;
+  margin-top: 24px;
+  
+}
+.big-pic-two{
+  border-radius: 24px;
+  margin: 48px 48px 48px 0px;
+  /* padding: 0px 48px 48px 48px; */
+}
+.photo{
+  position: relative;
+}
+.about-item-4{
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 50px;
+  text-align: center;
+  
+}
+/* taka */
+.all-rulls{
+  margin-top: 50px;
+  margin-left: 160px;
+  margin-right: 160px;
+  
+}
+.rull-item{
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+.rulls{
+  
+  background-color: #fff;
+  border-radius: 24px;
+  padding: 40px 40px 40px 40px;
+  
+}
+.rool{
+  font-size: 40px;
+}
+.rulls-blue{
+  background-color: rgb(226, 223, 30);
+  border-radius: 24px;
+  padding: 40px 40px 40px 40px;
+
+}
+.box{
+  text-align: center;
+}
+.one-box-part{
+  /* padding: 20px 422.5px 20px 422.5; */
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.box-one{
+  padding-left: 422.5px;
+  padding-right: 422.5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+.btn-primary-box{
+  border-radius: 8px;
+  background-color: #006A50;
+  padding: 17px 34px 17px 34px;
+  color: #FFFFFF;
+  font-size: 18px;
+}
+
+/* news-button */
+.last-titel{
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 80px;
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  justify-content: center;
+
+}
+.last-part-one{
+  text-align: center;
+  padding: 80px;
+  padding: 80px;
+
+}
+.discription-one{
+  text-align: center;
+}
+.heading{
+  font-size: 40px;
+}
+.full-in-the-gaph{
+
+  padding: 19px 403px 19px 40px;
+  border-radius: 8px 0px 0px 8px;
+}
+.btn-primary-last{
+  /* border-radius: 8px; */
+  border-radius: 0px 8px 8px 0px;
+  background-color: #006A50;
+  padding: 17px 34px 17px 34px;
+  color: #FFFFFF;
+  font-size: 18px;
+
+}
+
+ 
+
+
+
